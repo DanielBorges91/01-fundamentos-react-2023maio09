@@ -18,7 +18,12 @@ export function Post() {
       <div className={styles.content} >
         <p>Fala galera</p>
         <p>Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return.</p>
-        <p><a href="">#novoprojeto #nlw #rocketseat</a></p>
+        <p><a href="">jane.design/doctcare</a></p>
+        <p>
+          <a href="">#novoprojeto</a>{' '}
+          <a>#nlw</a>{' '}
+          <a>#rocketseat</a>
+        </p>
       </div>
     </article>
   )
